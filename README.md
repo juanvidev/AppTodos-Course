@@ -1,18 +1,23 @@
-# Webpack starter project with js-modern
+# App To-Do with JavaScript HTML CSS
 
-Este un proyecto cascara inicial para crear aplicaciones 
-usando JavaScript moderno con webpack.
+Esta es una aplicacion de To-Do para un curso de udemy personal, usando JavaScript moderno con webpack, HTML y CSS.
 
 ### Notas
+
 Construccion de los modulos
- ```
- > npm install
- ```
+
+```
+> npm install
+```
+
 Construccion del build para ambiente produccion
- ```
- > npm run build
-  ```
+
+```
+> npm run build
+```
+
 Construccion del build para ambiente desarrollo
- ```
- > npm run build:dev
-  ```
+
+```
+> npm run build:dev
+```
